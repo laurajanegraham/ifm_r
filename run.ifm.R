@@ -1,3 +1,7 @@
+# load required packages
+require("rgdal")
+require("rgeos")
+
 # load all functions
 source("R/ds.factors.R")
 source("R/ds.run.R")
